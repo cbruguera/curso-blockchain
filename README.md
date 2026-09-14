@@ -9,6 +9,7 @@ tecnología como soporte de compromisos y prueba.
 | [`curso-8h/`](curso-8h/) | **El curso.** 8 bloques de 55 min, listo para impartir |
 | [`proyecto-voz/`](proyecto-voz/) | Proyecto sobre la voz como compromiso jurídico; sostiene los bloques 6-8 |
 | [`material-extendido/`](material-extendido/) | Banco de contenido: 24 clases esbozadas, base de monográficos y lectura opcional |
+| [`DECISIONES.md`](DECISIONES.md) | Bitácora: por qué el curso es como es y qué queda por decidir |
 
 ## Productos por bloque
 
