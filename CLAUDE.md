@@ -39,4 +39,3 @@ jurídico-probatorio guía qué temas entran y en qué orden, no el tono ni el v
 - Cada concepto se introduce con el problema que resuelve, antes que con su mecánica.
 - Citar fuentes primarias (papers, especificaciones, normas) en las referencias del docente.
 - El marco normativo asumido es el europeo (RGPD, eIDAS, MiCA) mientras no se confirme otra jurisdicción.
-- Toda decisión de plan que cambie el programa se anota en `DECISIONES.md`, con la alternativa descartada.
