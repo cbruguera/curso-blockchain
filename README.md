@@ -1,36 +1,30 @@
 # Curso de Blockchain
 
-Material completo para impartir un curso de blockchain de 24 clases (2 h cada una), dirigido a **público general y perfiles de negocio**. No requiere saber programar.
+Material docente para impartir un curso de blockchain. Dirigido a cualquier asistente sin
+conocimientos previos —emprendedores, juristas, técnicos—, con foco práctico en el uso de la
+tecnología como soporte de compromisos y prueba.
 
-- 📋 [Programa completo](PROGRAMA.md)
-- 📁 [Módulos y clases](modulos/)
+| Carpeta | Qué es |
+|---|---|
+| [`curso-8h/`](curso-8h/) | **El curso.** 8 bloques de 55 min, listo para impartir |
+| [`proyecto-voz/`](proyecto-voz/) | Proyecto sobre la voz como compromiso jurídico; sostiene los bloques 6-8 |
+| [`material-extendido/`](material-extendido/) | Banco de contenido: 24 clases esbozadas, base de monográficos y lectura opcional |
 
-## Qué incluye cada clase
+## Productos por bloque
 
 | Archivo | Para quién |
 |---|---|
-| `slides.md` | Para proyectar en el aula (formato [Marp](https://marp.app)) |
-| `guia-docente.md` | Preparación del docente: guion, tiempos, dudas frecuentes, referencias |
+| `slides.md` | Para proyectar ([Marp](https://marp.app)) |
+| `guia-docente.md` | Guion cronometrado, dudas frecuentes, referencias |
 | `material-estudio.md` | Texto autocontenido para el alumno, con glosario y ejercicios |
 
-## Estructura
-
-```
-modulos/
-  01-fundamentos/
-  02-bitcoin/
-  03-ethereum-contratos/
-  04-aplicaciones/
-  05-avanzado/
-  06-contexto-cierre/
-```
-
-## Exportar las slides
+## Exportar slides
 
 ```bash
-npx @marp-team/marp-cli modulos/01-fundamentos/01-que-problema-resuelve/slides.md --pdf
+npx @marp-team/marp-cli curso-8h/bloques/01-que-garantiza/slides.md --pdf
 ```
 
 ## Estado
 
-Esqueleto completo de las 24 clases (objetivos, guion con tiempos, conceptos, referencias y ejercicios). El contenido desarrollado se marca con `<!-- TODO -->`.
+Esqueleto completo: objetivos, guion cronometrado, storyboard de láminas, conceptos, ejercicios y
+referencias. El contenido desarrollado se marca con `<!-- TODO -->`.
