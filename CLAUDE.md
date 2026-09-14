@@ -21,9 +21,18 @@ jurídico-probatorio guía qué temas entran y en qué orden, no el tono ni el v
 2. **`guia-docente.md`** — guion cronometrado, preparación, dudas frecuentes, referencias.
 3. **`material-estudio.md`** — texto autocontenido para el alumno, con glosario y ejercicios.
 
+## Formato
+
+- **Una lámina = un encabezado `##`**, separadas por `---`. El storyboard de láminas ya está escrito:
+  al desarrollar, se rellena cada lámina, no se reordena el bloque sin decirlo.
+- `<!-- TODO -->` marca contenido pendiente. Es el único marcador; no usar otros.
+- Comillas latinas («») en el texto para el alumno.
+
 ## Convenciones
 
 - Nomenclatura: `NN-tema-en-kebab-case`.
+- `curso-8h/` es el entregable y manda. `material-extendido/` es cantera: no se mantiene al mismo
+  estándar ni se actualiza por coherencia. `proyecto-voz/` es documento vivo de investigación.
 - **La definición de blockchain ocupa una lámina.** El curso explica qué garantiza y qué no, no qué es.
 - El tiempo es el recurso escaso: todo segmento lleva minutos asignados y la guía dice qué se recorta primero.
 - Rigor ante todo: nada de hype ni promesas de inversión; explicar los trade-offs y las críticas.
