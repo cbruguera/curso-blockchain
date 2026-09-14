@@ -22,15 +22,3 @@ No requiere conocimientos previos de programación ni de derecho: el material es
 | 6 | [La voz como acto de compromiso: el problema](bloques/06-voz-problema/) | Cuando alguien se compromete con su voz, ¿qué habría que poder demostrar después? |
 | 7 | [Diseño de la solución: arquitectura de referencia](bloques/07-voz-arquitectura/) | ¿Qué se guarda, qué se firma y qué se publica — y dónde vive cada cosa? |
 | 8 | [Taller final: romper el sistema y decidir](bloques/08-voz-taller-final/) | Si yo quisiera tumbar esta prueba en un procedimiento, ¿por dónde atacaría? |
-
-## Criterios de diseño
-
-El razonamiento completo, las alternativas descartadas y lo que queda por decidir están en la
-[bitácora de decisiones](../DECISIONES.md).
-
-- **La definición de blockchain ocupa una lámina.** El curso no explica qué es, explica qué garantiza y qué no.
-- **Cinco bloques de fundamentos, tres de proyecto.** La Parte II aplica todo lo anterior a un caso real y complejo.
-- **Se asume nivel cero de programación**, pero no se rebaja el rigor: se citan fuentes primarias.
-- Lo que queda fuera por falta de tiempo (minería, consenso, DeFi, capas 2, MEV) vive en
-  [`material-extendido/`](../material-extendido/) como lectura opcional.
-
