@@ -1,56 +1,50 @@
-# Sesión 6 — La voz: arquitectura de la solución
+# Sesión 6 — La voz: diseñar la solución
 
 *Parte II — Proyecto: la voz como compromiso*
 
-> ¿Qué se guarda, qué se firma y qué se publica — y dónde vive cada cosa?
+> ¿Qué hay que decidir para convertir el problema en un sistema — y qué opciones hay en cada decisión?
 
 ## Qué vas a aprender
 
-- Recorrer la arquitectura completa, de la captura a la verificación.
-- Justificar qué información va dentro y cuál fuera de la cadena.
-- Aplicar la regla de no escribir datos personales en cadena a un caso con datos biométricos.
-- Identificar las decisiones de diseño que siguen abiertas.
+- Traducir los requisitos de la sesión 5 en un conjunto de decisiones de diseño.
+- Conocer las opciones disponibles en cada decisión y qué se gana y se pierde con cada una.
+- Aplicar la regla de qué va dentro y qué va fuera de la cadena a un caso con datos biométricos.
+- Proponer, por equipos, una arquitectura posible y contrastarla con las demás.
 
-## Captura y consentimiento
-
-<!-- TODO: desarrollar en prosa, autocontenido -->
-
-## Procesamiento y firmas
+## Las decisiones de diseño
 
 <!-- TODO: desarrollar en prosa, autocontenido -->
 
-## Anclaje
+## Opciones en cada decisión
 
 <!-- TODO: desarrollar en prosa, autocontenido -->
 
-## Custodia del audio
+## Dentro o fuera de la cadena
 
 <!-- TODO: desarrollar en prosa, autocontenido -->
 
-## Verificación por un tercero
+## Taller: cada equipo propone su arquitectura
 
 <!-- TODO: desarrollar en prosa, autocontenido -->
 
 ## Glosario
 
-- **captura**: <!-- TODO -->
+- **decisión de diseño**: <!-- TODO -->
 - **consentimiento verificable**: <!-- TODO -->
 - **hash del audio**: <!-- TODO -->
-- **anclaje por lotes**: <!-- TODO -->
-- **custodia cifrada**: <!-- TODO -->
+- **anclaje**: <!-- TODO -->
+- **custodia del audio**: <!-- TODO -->
 - **dato biométrico**: <!-- TODO -->
-- **expediente de prueba**: <!-- TODO -->
 - **retención**: <!-- TODO -->
-- **procedencia de contenido (C2PA)**: <!-- TODO -->
+- **verificador**: <!-- TODO -->
 
 ## Ejercicios
 
-1. Dibuja la arquitectura y marca en rojo todo lo que sale del control del usuario.
-2. Decide, para cada dato del sistema, si va dentro o fuera de la cadena. Justifica cada fila.
+1. Elige una de las decisiones y escribe las dos opciones que considerarías, con su coste.
+2. Para cada dato del sistema que propusiste, decide si va dentro o fuera de la cadena. Justifica.
 
 ## Para profundizar
 
-- C2PA — *Coalition for Content Provenance and Authenticity*, especificación técnica.
-- W3C — *Verifiable Credentials Data Model*.
-- OpenTimestamps — anclaje por lotes con árboles de Merkle.
-- <!-- TODO: referencias propias del proyecto, ver /proyecto-voz -->
+- <!-- TODO: referencias del proyecto, ver /proyecto-voz. El diseño concreto aún no está fijado. -->
+- W3C — *Verifiable Credentials Data Model* (una de las opciones posibles).
+- OpenTimestamps — anclaje por lotes (una de las opciones posibles).

@@ -5,7 +5,7 @@ paginate: true
 lang: es
 ---
 
-# Sesión 6 — La voz: arquitectura de la solución
+# Sesión 6 — La voz: diseñar la solución
 
 **Parte II — Proyecto: la voz como compromiso**
 Curso de Blockchain · 8 h
@@ -14,20 +14,20 @@ Curso de Blockchain · 8 h
 
 ## Pregunta guía
 
-> ¿Qué se guarda, qué se firma y qué se publica — y dónde vive cada cosa?
+> ¿Qué hay que decidir para convertir el problema en un sistema — y qué opciones hay en cada decisión?
 
 ---
 
 ## En esta sesión
 
-- Recorrer la arquitectura completa, de la captura a la verificación.
-- Justificar qué información va dentro y cuál fuera de la cadena.
-- Aplicar la regla de no escribir datos personales en cadena a un caso con datos biométricos.
-- Identificar las decisiones de diseño que siguen abiertas.
+- Traducir los requisitos de la sesión 5 en un conjunto de decisiones de diseño.
+- Conocer las opciones disponibles en cada decisión y qué se gana y se pierde con cada una.
+- Aplicar la regla de qué va dentro y qué va fuera de la cadena a un caso con datos biométricos.
+- Proponer, por equipos, una arquitectura posible y contrastarla con las demás.
 
 ---
 
-## La arquitectura completa, de un vistazo
+## Del problema a las decisiones
 
 <!-- TODO -->
 
@@ -37,7 +37,7 @@ Curso de Blockchain · 8 h
 
 ---
 
-## Paso 1 — Captura y consentimiento
+## Las decisiones que hay que tomar
 
 <!-- TODO -->
 
@@ -47,7 +47,7 @@ Curso de Blockchain · 8 h
 
 ---
 
-## Paso 2 — Hash del audio y metadatos
+## Decisión — Qué se captura y con qué consentimiento
 
 <!-- TODO -->
 
@@ -57,7 +57,7 @@ Curso de Blockchain · 8 h
 
 ---
 
-## Paso 3 — Firmas: declarante y sistema
+## Decisión — Qué se firma y quién firma
 
 <!-- TODO -->
 
@@ -67,7 +67,7 @@ Curso de Blockchain · 8 h
 
 ---
 
-## Paso 4 — Anclaje: qué, dónde, cada cuánto
+## Decisión — Qué se ancla y con qué frecuencia
 
 <!-- TODO -->
 
@@ -77,7 +77,27 @@ Curso de Blockchain · 8 h
 
 ---
 
-## Paso 5 — Custodia del audio
+## Decisión — Dónde vive el audio y cuánto tiempo
+
+<!-- TODO -->
+
+- 
+- 
+
+
+---
+
+## Decisión — Qué ve un verificador y cómo
+
+<!-- TODO -->
+
+- 
+- 
+
+
+---
+
+## Dentro o fuera de la cadena: la regla general
 
 <!-- TODO -->
 
@@ -97,7 +117,7 @@ Curso de Blockchain · 8 h
 
 ---
 
-## Paso 6 — El expediente de prueba
+## Taller: cada equipo propone su arquitectura
 
 <!-- TODO -->
 
@@ -107,37 +127,7 @@ Curso de Blockchain · 8 h
 
 ---
 
-## Paso 7 — Verificación por un tercero
-
-<!-- TODO -->
-
-- 
-- 
-
-
----
-
-## Dentro o fuera de la cadena: tabla de decisión
-
-<!-- TODO -->
-
-- 
-- 
-
-
----
-
-## Procedencia de contenido: C2PA y el ecosistema
-
-<!-- TODO -->
-
-- 
-- 
-
-
----
-
-## Decisiones abiertas del diseño
+## Puesta en común: en qué difieren las propuestas
 
 <!-- TODO -->
 
@@ -149,12 +139,11 @@ Curso de Blockchain · 8 h
 
 ## Conceptos de la sesión
 
-- **captura**
+- **decisión de diseño**
 - **consentimiento verificable**
 - **hash del audio**
-- **anclaje por lotes**
-- **custodia cifrada**
+- **anclaje**
+- **custodia del audio**
 - **dato biométrico**
-- **expediente de prueba**
 - **retención**
-- **procedencia de contenido (C2PA)**
+- **verificador**

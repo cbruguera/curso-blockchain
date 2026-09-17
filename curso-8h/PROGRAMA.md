@@ -19,7 +19,7 @@ No requiere conocimientos previos de programación. Curso general de blockchain,
 | # | Sesión | Pregunta guía |
 |---|---|---|
 | 5 | [La voz como compromiso: el problema](sesiones/05-voz-problema/) | Cuando alguien se compromete con su voz, ¿qué habría que poder demostrar después? |
-| 6 | [La voz: arquitectura de la solución](sesiones/06-voz-arquitectura/) | ¿Qué se guarda, qué se firma y qué se publica — y dónde vive cada cosa? |
+| 6 | [La voz: diseñar la solución](sesiones/06-voz-arquitectura/) | ¿Qué hay que decidir para convertir el problema en un sistema — y qué opciones hay en cada decisión? |
 | 7 | [La voz: taller de ataque y decisión](sesiones/07-voz-taller-final/) | Si yo quisiera tumbar esta prueba, ¿por dónde atacaría? |
 
 ## Cierre
