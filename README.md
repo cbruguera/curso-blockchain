@@ -1,16 +1,16 @@
 # Curso de Blockchain
 
-Material docente para impartir un curso de blockchain. Dirigido a cualquier asistente sin
-conocimientos previos —emprendedores, juristas, técnicos—, con foco práctico en el uso de la
-tecnología como soporte de compromisos y prueba.
+Material docente para impartir un curso general de blockchain. Dirigido a cualquier asistente sin
+conocimientos previos de programación. Las sesiones 5-7 aplican todo lo anterior a un caso de
+estudio: el uso de la voz como herramienta de compromiso.
 
 | Carpeta | Qué es |
 |---|---|
-| [`curso-8h/`](curso-8h/) | **El curso.** 8 bloques de 55 min, listo para impartir |
-| [`proyecto-voz/`](proyecto-voz/) | Proyecto sobre la voz como compromiso jurídico; sostiene los bloques 6-8 |
+| [`curso-8h/`](curso-8h/) | **El curso.** 8 sesiones de 55 min, listo para impartir |
+| [`proyecto-voz/`](proyecto-voz/) | Proyecto sobre la voz como compromiso jurídico; sostiene las sesiones 5-7 |
 | [`material-extendido/`](material-extendido/) | Banco de contenido: 24 clases esbozadas, base de monográficos y lectura opcional |
 
-## Productos por bloque
+## Productos por sesión
 
 | Archivo | Para quién |
 |---|---|
@@ -21,7 +21,7 @@ tecnología como soporte de compromisos y prueba.
 ## Exportar slides
 
 ```bash
-npx @marp-team/marp-cli curso-8h/bloques/01-que-garantiza/slides.md --pdf
+npx @marp-team/marp-cli curso-8h/sesiones/01-que-garantiza/slides.md --pdf
 ```
 
 ## Estado

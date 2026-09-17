@@ -1,6 +1,6 @@
 # Proyecto: la voz como herramienta de compromiso jurídico
 
-Documento vivo. Sostiene los bloques 6-8 del [curso de 8 h](../curso-8h/) y va más allá de él:
+Documento vivo. Sostiene las sesiones 5-7 del [curso de 8 h](../curso-8h/) y va más allá de él:
 es una línea de trabajo propia que merece sesiones monográficas.
 
 ## El problema
@@ -43,5 +43,7 @@ la mayoría de propuestas del mercado hacen trampa.
 
 ## Jurisdicción
 
-<!-- TODO: confirmar jurisdicción objetivo. El material actual asume marco europeo
-     (eIDAS, RGPD, MiCA); si el destino es LatAm hay que rehacer las referencias normativas. -->
+**Argentina.** Las referencias normativas locales (Ley 25.506 de firma digital, Ley 25.326 de
+protección de datos, registro de PSAV) están marcadas con `TODO` porque provienen de conocimiento con
+fecha de corte: **hay que verificarlas con fuente local antes de dictar**. El marco europeo
+(eIDAS, RGPD, MiCA) se menciona como referencia comparada, no como contenido.

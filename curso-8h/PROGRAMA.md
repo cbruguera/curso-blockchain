@@ -1,24 +1,29 @@
 # Programa — Curso de Blockchain (8 h)
 
-8 bloques de 55 min. Se puede impartir como 4 sesiones de 2 h, 8 de 1 h o 2 jornadas de 4 h.
+8 sesiones de 55 min. Se puede impartir como 4 encuentros de 2 h, 8 de 1 h o 2 jornadas de 4 h.
 
-No requiere conocimientos previos de programación ni de derecho: el material está escrito para cualquier asistente, sea emprendedor, jurista o técnico.
+No requiere conocimientos previos de programación. Curso general de blockchain, con un caso de estudio aplicado en las sesiones 5-7.
 
 
-## Parte I — Fundamentos útiles
+## Parte I — Fundamentos
 
-| # | Bloque | Pregunta guía |
+| # | Sesión | Pregunta guía |
 |---|---|---|
-| 1 | [Qué garantiza una blockchain (y qué no)](bloques/01-que-garantiza/) | Todo el mundo dice que blockchain «da confianza». ¿Confianza en qué, exactamente? |
-| 2 | [Firmas, claves e identidad: probar quién](bloques/02-firmas-identidad/) | ¿Qué prueba realmente una firma digital: que fue una persona, o que fue una clave? |
-| 3 | [Anclaje y sellado de tiempo: probar qué y cuándo](bloques/03-anclaje-sellado/) | ¿Cómo demuestro que este archivo existía el martes y que no lo he tocado desde entonces? |
-| 4 | [Contratos inteligentes: automatizar compromisos](bloques/04-contratos-inteligentes/) | ¿Qué parte de un acuerdo conviene que se ejecute sola, y cuál no? |
-| 5 | [Privacidad, datos y reglas del juego](bloques/05-privacidad-reglas/) | ¿Qué pasa cuando el derecho a borrar choca con un registro que no se puede borrar? |
+| 1 | [Qué garantiza una blockchain (y qué no)](sesiones/01-que-garantiza/) | Todo el mundo dice que blockchain «da confianza». ¿Confianza en qué, exactamente? |
+| 2 | [Cómo se prueba algo digitalmente](sesiones/02-probar-digitalmente/) | ¿Cómo demuestro que este archivo es mío, que existía el martes y que no lo he tocado desde entonces? |
+| 3 | [Contratos inteligentes](sesiones/03-contratos-inteligentes/) | ¿Qué parte de un acuerdo conviene que se ejecute sola, y cuál no? |
+| 4 | [Tokens, dinero y activos](sesiones/04-tokens-dinero-activos/) | ¿Qué tienes realmente cuando tienes un token? |
 
 ## Parte II — Proyecto: la voz como compromiso
 
-| # | Bloque | Pregunta guía |
+| # | Sesión | Pregunta guía |
 |---|---|---|
-| 6 | [La voz como acto de compromiso: el problema](bloques/06-voz-problema/) | Cuando alguien se compromete con su voz, ¿qué habría que poder demostrar después? |
-| 7 | [Diseño de la solución: arquitectura de referencia](bloques/07-voz-arquitectura/) | ¿Qué se guarda, qué se firma y qué se publica — y dónde vive cada cosa? |
-| 8 | [Taller final: romper el sistema y decidir](bloques/08-voz-taller-final/) | Si yo quisiera tumbar esta prueba en un procedimiento, ¿por dónde atacaría? |
+| 5 | [La voz como compromiso: el problema](sesiones/05-voz-problema/) | Cuando alguien se compromete con su voz, ¿qué habría que poder demostrar después? |
+| 6 | [La voz: arquitectura de la solución](sesiones/06-voz-arquitectura/) | ¿Qué se guarda, qué se firma y qué se publica — y dónde vive cada cosa? |
+| 7 | [La voz: taller de ataque y decisión](sesiones/07-voz-taller-final/) | Si yo quisiera tumbar esta prueba, ¿por dónde atacaría? |
+
+## Cierre
+
+| # | Sesión | Pregunta guía |
+|---|---|---|
+| 8 | [Cierre: temas avanzados, criterio y discusión](sesiones/08-cierre/) | ¿Qué queda por ver, y qué hacemos con todo esto? |
